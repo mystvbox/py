@@ -1,6 +1,16 @@
 {
   "sites": [
     {
+      "key": "py_kunyu77",
+      "name": "七七",
+      "type": 3,
+      "api": "py_kunyu77",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://agit.ai/maoys/PyramidStore/raw/branch/main/plugin/py_kunyu77.py"
+    },
+    {
       "key": "py_bilibili",
       "name": "哔哩",
       "type": 3,
