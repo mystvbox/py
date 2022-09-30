@@ -31,6 +31,7 @@ class Spider(Spider):  # 元类 默认的元类 type
             "资源小站": "https://960303.xyz/ali",
             "轻弹浅唱": "https://g.xiang.lol",
             "🦀9T(Adult)":"https://drive.9t.ee",
+            "公益盘": "http://43.139.29.179:5245",
             "小兵组网盘视频": "https://6vv.app"
         }
         classes = []
