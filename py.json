@@ -221,6 +221,16 @@
       "ext": "https://agit.ai/maoys/PyramidStore/raw/branch/main/plugin/py_yiso.py"
     },
     {
+      "key": "py_yunso",
+      "name": "云搜",
+      "type": 3,
+      "api": "py_yunso",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://agit.ai/maoys/PyramidStore/raw/branch/main/plugin/py_yunso.py"
+    },
+    {
       "key": "py_zhaozy",
       "name": "找资源",
       "type": 3,
