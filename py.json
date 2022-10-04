@@ -61,6 +61,16 @@
       "ext": "https://agit.ai/maoys/PyramidStore/raw/branch/main/plugin/py_cctv.py"
     },
     {
+      "key": "py_qie",
+      "name": "企鹅体育"",
+      "type": 3,
+      "api": "py_qie",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://agit.ai/maoys/PyramidStore/raw/branch/main/plugin/py_qie.py"
+    }, 
+    {
       "key": "py_czspp",
       "name": "厂长",
       "type": 3,
