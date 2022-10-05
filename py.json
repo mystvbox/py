@@ -62,7 +62,7 @@
     },
     {
       "key": "py_qie",
-      "name": "企鹅体育"
+      "name": "企鹅体育",
       "type": 3,
       "api": "py_qie",
       "searchable": 0,
