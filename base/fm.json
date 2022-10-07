@@ -21,7 +21,7 @@
    "key": "dr_007影视",
    "name": "007影视",
    "type": 3,
-   "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.js",
+   "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
    "searchable": 1,
    "quickSearch": 0,
    "filterable": 0,
