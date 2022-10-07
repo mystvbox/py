@@ -111,6 +111,16 @@
       "ext": "https://agit.ai/maoys/PyramidStore/raw/branch/main/plugin/py_ddys.py"
     }, 
     {
+      "key": "py_freezb",
+      "name": "体育2",
+      "type": 3,
+      "api": "py_freezb",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://agit.ai/maoys/PyramidStore/raw/branch/main/plugin/py_freezb.py"
+    }, 
+    {
       "key": "py_czspp",
       "name": "厂长",
       "type": 3,
