@@ -81,6 +81,16 @@
       "ext": "https://agit.ai/maoys/PyramidStore/raw/branch/main/plugin/py_bilivd.py"
     },
     {
+      "key": "py_yixi",
+      "name": "一席",
+      "type": 3,
+      "api": "py_yixi",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://agit.ai/maoys/PyramidStore/raw/branch/main/plugin/py_yixi.py"
+    },
+    {
       "key": "py_3qu",
       "name": "3QU",
       "type": 3,
